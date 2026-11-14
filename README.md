@@ -7,6 +7,7 @@ This is my leetcode repo!!!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/robinrsa-dev/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0387-first-unique-character-in-a-string](https://github.com/robinrsa-dev/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,4 +20,16 @@ This is my leetcode repo!!!
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/robinrsa-dev/LEETCODE/tree/master/2235-add-two-integers) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/robinrsa-dev/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/robinrsa-dev/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/robinrsa-dev/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
