@@ -7,6 +7,7 @@ This is my leetcode repo!!!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/robinrsa-dev/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0383-ransom-note](https://github.com/robinrsa-dev/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/robinrsa-dev/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -23,6 +24,7 @@ This is my leetcode repo!!!
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/robinrsa-dev/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/robinrsa-dev/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -31,5 +33,6 @@ This is my leetcode repo!!!
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/robinrsa-dev/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/robinrsa-dev/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
