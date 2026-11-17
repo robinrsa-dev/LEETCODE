@@ -44,4 +44,12 @@ This is my leetcode repo!!!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/robinrsa-dev/LEETCODE/tree/master/0409-longest-palindrome) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/robinrsa-dev/LEETCODE/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/robinrsa-dev/LEETCODE/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
