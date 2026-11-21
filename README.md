@@ -30,6 +30,7 @@ This is my leetcode repo!!!
 | [0387-first-unique-character-in-a-string](https://github.com/robinrsa-dev/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/robinrsa-dev/LEETCODE/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/robinrsa-dev/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/robinrsa-dev/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 ## Queue
 |  |
 | ------- |
@@ -50,6 +51,7 @@ This is my leetcode repo!!!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/robinrsa-dev/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/robinrsa-dev/LEETCODE/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/robinrsa-dev/LEETCODE/tree/master/0704-binary-search) |
+| [1207-unique-number-of-occurrences](https://github.com/robinrsa-dev/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
