@@ -22,6 +22,7 @@ This is my leetcode repo!!!
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/robinrsa-dev/LEETCODE/tree/master/0069-sqrtx) |
 | [2235-add-two-integers](https://github.com/robinrsa-dev/LEETCODE/tree/master/2235-add-two-integers) |
 ## Hash Table
 |  |
@@ -57,5 +58,10 @@ This is my leetcode repo!!!
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/robinrsa-dev/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/robinrsa-dev/LEETCODE/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/robinrsa-dev/LEETCODE/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/robinrsa-dev/LEETCODE/tree/master/0704-binary-search) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/robinrsa-dev/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
