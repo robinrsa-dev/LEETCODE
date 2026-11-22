@@ -11,6 +11,7 @@ This is my leetcode repo!!!
 | [0387-first-unique-character-in-a-string](https://github.com/robinrsa-dev/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/robinrsa-dev/LEETCODE/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/robinrsa-dev/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/robinrsa-dev/LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Dynamic Programming
 |  |
 | ------- |
