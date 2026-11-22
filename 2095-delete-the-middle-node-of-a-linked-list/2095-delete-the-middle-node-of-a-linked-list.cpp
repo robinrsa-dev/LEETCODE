@@ -25,7 +25,7 @@ public:
             temp = temp->next;
         }
 
-        prev->next = temp->next;
+        prev->next =prev->next->next;
         delete(temp);
       
         return head;
