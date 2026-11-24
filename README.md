@@ -20,6 +20,7 @@ This is my leetcode repo!!!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/robinrsa-dev/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/robinrsa-dev/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@ This is my leetcode repo!!!
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/robinrsa-dev/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/robinrsa-dev/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
