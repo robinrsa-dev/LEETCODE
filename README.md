@@ -7,6 +7,7 @@ This is my leetcode repo!!!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/robinrsa-dev/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0242-valid-anagram](https://github.com/robinrsa-dev/LEETCODE/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/robinrsa-dev/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/robinrsa-dev/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/robinrsa-dev/LEETCODE/tree/master/0409-longest-palindrome) |
@@ -29,6 +30,7 @@ This is my leetcode repo!!!
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/robinrsa-dev/LEETCODE/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/robinrsa-dev/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/robinrsa-dev/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/robinrsa-dev/LEETCODE/tree/master/0409-longest-palindrome) |
@@ -75,4 +77,8 @@ This is my leetcode repo!!!
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/robinrsa-dev/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/robinrsa-dev/LEETCODE/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
