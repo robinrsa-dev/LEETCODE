@@ -57,6 +57,7 @@ This is my leetcode repo!!!
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/robinrsa-dev/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/robinrsa-dev/LEETCODE/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/robinrsa-dev/LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/robinrsa-dev/LEETCODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/robinrsa-dev/LEETCODE/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/robinrsa-dev/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
@@ -89,5 +90,6 @@ This is my leetcode repo!!!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/robinrsa-dev/LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/robinrsa-dev/LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
