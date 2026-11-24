@@ -4,8 +4,8 @@ public:
             sort(nums.begin(),nums.end());
           
             unordered_map<int,int>freq;
-            for(int x :nums){
-                freq[x]++;
+            for(int i :nums){
+                freq[i]++;
             }
             
             for(const auto& [num,count]:freq){
