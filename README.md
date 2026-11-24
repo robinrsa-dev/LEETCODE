@@ -26,11 +26,13 @@ This is my leetcode repo!!!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/robinrsa-dev/LEETCODE/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/robinrsa-dev/LEETCODE/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/robinrsa-dev/LEETCODE/tree/master/2235-add-two-integers) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/robinrsa-dev/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/robinrsa-dev/LEETCODE/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/robinrsa-dev/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/robinrsa-dev/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/robinrsa-dev/LEETCODE/tree/master/0409-longest-palindrome) |
@@ -55,6 +57,7 @@ This is my leetcode repo!!!
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/robinrsa-dev/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/robinrsa-dev/LEETCODE/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/robinrsa-dev/LEETCODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/robinrsa-dev/LEETCODE/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/robinrsa-dev/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 ## Binary Search
@@ -63,6 +66,7 @@ This is my leetcode repo!!!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/robinrsa-dev/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/robinrsa-dev/LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/robinrsa-dev/LEETCODE/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/robinrsa-dev/LEETCODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/robinrsa-dev/LEETCODE/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
@@ -81,4 +85,9 @@ This is my leetcode repo!!!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/robinrsa-dev/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/robinrsa-dev/LEETCODE/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/robinrsa-dev/LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
