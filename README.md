@@ -20,11 +20,13 @@ This is my leetcode repo!!!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/robinrsa-dev/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/robinrsa-dev/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/robinrsa-dev/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/robinrsa-dev/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/robinrsa-dev/LEETCODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/robinrsa-dev/LEETCODE/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/robinrsa-dev/LEETCODE/tree/master/2235-add-two-integers) |
@@ -76,6 +78,7 @@ This is my leetcode repo!!!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/robinrsa-dev/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/robinrsa-dev/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/robinrsa-dev/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
