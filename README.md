@@ -30,6 +30,7 @@ This is my leetcode repo!!!
 | [0069-sqrtx](https://github.com/robinrsa-dev/LEETCODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/robinrsa-dev/LEETCODE/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/robinrsa-dev/LEETCODE/tree/master/2235-add-two-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/robinrsa-dev/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ This is my leetcode repo!!!
 | [0268-missing-number](https://github.com/robinrsa-dev/LEETCODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/robinrsa-dev/LEETCODE/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/robinrsa-dev/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/robinrsa-dev/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
