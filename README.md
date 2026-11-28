@@ -83,6 +83,7 @@ This is my leetcode repo!!!
 | ------- |
 | [0002-add-two-numbers](https://github.com/robinrsa-dev/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/robinrsa-dev/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/robinrsa-dev/LEETCODE/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/robinrsa-dev/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/robinrsa-dev/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/robinrsa-dev/LEETCODE/tree/master/0206-reverse-linked-list) |
@@ -91,6 +92,7 @@ This is my leetcode repo!!!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/robinrsa-dev/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/robinrsa-dev/LEETCODE/tree/master/0061-rotate-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/robinrsa-dev/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
