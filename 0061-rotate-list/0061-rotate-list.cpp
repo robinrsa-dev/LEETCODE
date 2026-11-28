@@ -13,9 +13,13 @@ public:
     ListNode*findnode(ListNode*head,int x){
         ListNode* curr = head;
         int count = 1;
-        while (curr != nullptr && count < x) {
-            curr = curr->next;
+        while (curr != nullptr ) {
+            if(count==x){
+                return curr;
+            }
             count++;
+            curr = curr->next;
+            
         }
         return curr;
     }
